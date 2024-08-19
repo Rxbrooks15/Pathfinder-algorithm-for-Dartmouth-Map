@@ -1,6 +1,7 @@
 Methods
 Overview
 The purpose of this project was to create a program that accurately reads a file, constructs a graph, and performs various operations on this graph, such as running a Breadth-First Search (BFS), implementing backchaining, and drawing the graph efficiently. Additionally, the project required correct selection and manipulation of the start and goal vertices, proper pathfinding from start to goal, and a clear presentation of the results with well-organized test cases. The emphasis on correctness and clarity was crucial for ensuring that the program would not only function as intended but also be easy to understand and maintain.
+<img width="400" alt="pathfinder" src="https://github.com/user-attachments/assets/f8f21b42-7a0b-4a1f-96ed-cb1b5b05796f">
 
 Process
 File Reading and Graph Construction:
