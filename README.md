@@ -4,7 +4,7 @@ The purpose of this project was to create a program that accurately reads a file
 <img width="800" alt="pathfinder" src="https://github.com/user-attachments/assets/f8f21b42-7a0b-4a1f-96ed-cb1b5b05796f">
 
 Process
-File Reading and Graph Construction:
+File Reading and Graph Construction::
 
 The first step in the project was to implement a method for reading input data from a file and using this data to build the graph. This was a foundational task, as the accuracy of graph construction directly influenced the correctness of subsequent operations. The graph was represented using an adjacency list or matrix, ensuring that it was both space-efficient and suitable for the graph traversal algorithms used later.
 Breadth-First Search (BFS):
