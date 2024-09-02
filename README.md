@@ -29,6 +29,7 @@ To validate the correctness of the implementation, a series of test runs were co
 Code Design and Style:
 
 Throughout the project, attention was paid to clear design and organization. Variable names, function names, and comments were carefully chosen to enhance readability and maintainability. The use of instance variables was handled correctly, ensuring that the state of the program was managed appropriately across different parts of the code.
+
 Conclusion
 This project was successful in meeting the outlined criteria, ensuring both correctness in graph operations and clarity in code structure. The methods implemented provided a robust solution for reading, constructing, and manipulating graphs, while also presenting the results in a clear and visually informative manner.
 
